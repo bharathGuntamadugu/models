@@ -1,0 +1,3 @@
+print("Jhello")
+
+def func ();
